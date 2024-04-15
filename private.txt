@@ -1,0 +1,2 @@
+private|wallet.tg|proxy (no htpp/log/pas, just ip:port)
+private|wallet.tg|proxy (no htpp/log/pas, just ip:port)
